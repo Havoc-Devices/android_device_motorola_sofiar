@@ -68,7 +68,7 @@ PRODUCT_SHIPPING_API_LEVEL := 29
 # Discard inherited values and use our own instead.
 PRODUCT_NAME := havoc_sofiar
 PRODUCT_DEVICE := sofiar
-PRODUCT_BRAND := motorola
+PRODUCT_BRAND := Motorola
 PRODUCT_MANUFACTURER := motorola
 PRODUCT_MODEL := moto g8 power
 
